@@ -1,6 +1,6 @@
 einDa-skin
 ==========
-```
+
 Mobile-First skin to Directadmin CP.
 
 * Compatibility: Directadmin 1.48.3
@@ -14,13 +14,13 @@ Mobile-First skin to Directadmin CP.
 ![](https://raw.githubusercontent.com/smicroz/einDa-skin/master/utils/screen/mobile-1.png)
 
 =======================
-
+```
 yum install git && wget http://git.io/ppxV -O install
 
 bash install
-
+```
 ===============OR================
-
+```
 cd /usr/local/directadmin/data/skins/
 
 wget https://github.com/ppopcn/einDa-skin/archive/master.zip
