@@ -13,19 +13,13 @@ Mobile-First skin to Directadmin CP.
 
 ![](https://raw.githubusercontent.com/smicroz/einDa-skin/master/utils/screen/mobile-1.png)
 
-/*
+=======================
 
-Instruction for install (git required)
-==========
-* Download and execute installer
-  * # wget http://git.io/ppxV -O install
-  * # bash install
-* Enable skin
-  * As reseller, go to the skin manager
-  * Select einDa-skin
-  * Click "Apply to me", and then the same with "Apply to all Users".
-  
-*/
+yum install git && wget http://git.io/ppxV -O install
+
+bash install
+
+===============OR================
 
 cd /usr/local/directadmin/data/skins/
 
